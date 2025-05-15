@@ -1,0 +1,29 @@
+{
+    "user_agents": [
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 13_4_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 12_3_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 15_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15C202 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/14E304 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/13C75 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/12H321 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/10B329 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/11D257 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/531.22.7 (KHTML, like Gecko) Mobile/9B206 Safari/531.22.7",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 4_2_1 like Mac OS X) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8C148 Safari/533.17.9",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 3_1_3 like Mac OS X) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7E18 Safari/528.18",
+        "Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11A465 Safari/9537.53",
+        "Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/10B329 Safari/9537.53",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11D201 Safari/9537.53",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/14D27 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 10_1_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/14B100 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 10_2_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/14D27 Safari/537.36",
+        "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/13E238 Safari/537.36",
+        "Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/12F70 Safari/537.36"
+    ]
+}

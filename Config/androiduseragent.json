@@ -1,0 +1,30 @@
+{
+    "user_agents": [
+        "Mozilla/5.0 (Android 10; Mobile; rv:86.0) Gecko/86.0 Firefox/86.0",
+        "Mozilla/5.0 (Linux; Android 9; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 8.1.0; Pixel 2 XL Build/OPM2.171019.029) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 11; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 7.0; SM-J700F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MTC19T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 9; Pixel 3 XL Build/PQ3A.190801.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.92 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 8.0; SM-N950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 Chrome/64.0.3282.137 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 7.1.1; Nexus 6P Build/N6F26Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro Build/QKQ1.191020.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 11; SM-G986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 8.0; SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 7.1.2; Nexus 5X Build/N2G47W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 5.0; Nexus 6 Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 6.0.1; Samsung SM-G935F Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 5.1; SM-A520F Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 8.1.0; Pixel 2 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 9; Moto G7 Power Build/PQ2A.190305.002) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 10; Pixel 4 XL Build/QD1A.190821.006) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 9; Huawei P30 Pro Build/HuaweiP30Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 8.1.0; Moto G6 Plus Build/OPM2.171019.029) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 9; SM-A510F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 5.0; LG-D855 Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 6.0; Nexus 6 Build/MOB30P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 7.0; SM-G930F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36",
+        "Mozilla/5.0 (Linux; Android 6.0.1; LG-H818 Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile Safari/537.36"
+    ]
+}
